@@ -64,5 +64,9 @@ To begin my career in IT Support, Desktop Support, or Service Desk and continue 
 - Help Desk Support
 
 🔗 GitHub
+ https://github.com/subham771
 
 Explore my projects and technical learning through this repository.
+
+📌 Image Attribution
+The images used in this project were generated using ChatGPT for educational and portfolio demonstration purposes.
