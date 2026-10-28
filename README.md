@@ -68,5 +68,6 @@ To begin my career in IT Support, Desktop Support, or Service Desk and continue 
 
 Explore my projects and technical learning through this repository.
 
-📌 Image Attribution
+📌 Image Attribution:
+
 The images used in this project were generated using ChatGPT for educational and portfolio demonstration purposes.
